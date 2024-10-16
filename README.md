@@ -1,6 +1,6 @@
 # lexical_analysis
 
-##Lexical analysis different steps:
+## Lexical analysis different steps:
 
 Chapter 1: The Symphony of Words
 
